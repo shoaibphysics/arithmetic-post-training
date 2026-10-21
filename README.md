@@ -95,7 +95,7 @@ Training uses [TRL’s `GRPOTrainer`](https://huggingface.co/docs/trl/main/en/gr
 For each puzzle, the model samples four complete interactions. Their binary rewards produce group-relative advantages:
 
 $$
-A_i = \frac{r_i - \operatorname{mean}(r)}{\operatorname{std}(r) + 10^{-4}}.
+A_i = \frac{r_i - \mathrm{mean}(r)}{\mathrm{std}(r) + 10^{-4}}.
 $$
 
 Successful attempts are encouraged relative to unsuccessful attempts for the same puzzle. When every reward in a group is identical, its relative advantages are zero.
