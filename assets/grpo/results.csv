@@ -1,0 +1,7 @@
+evaluation,model,responses,accuracy,valid_format
+Multiplication: greedy,SFT,200,0.545,1.0
+Multiplication: greedy,GRPO,200,0.605,1.0
+Multiplication: sampled,SFT,800,0.50625,0.99875
+Multiplication: sampled,GRPO,800,0.54625,0.99625
+Addition/subtraction: greedy,SFT,200,1.0,1.0
+Addition/subtraction: greedy,GRPO,200,1.0,1.0

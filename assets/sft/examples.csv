@@ -1,0 +1,21 @@
+prompt,expected,response_base,response_sft,correct_base,correct_sft
+"Question: What is 10 + 49?
+Answer:",59, 10 + 49 =, 59,False,True
+"Question: What is 50 + 24?
+Answer:",74, 50 + 24 =, 74,False,True
+"Question: What is 31 - 71?
+Answer:",-40, 31 - 71 =, -40,False,True
+"Question: What is 37 - 73?
+Answer:",-36, 37 - 73 =, -36,False,True
+"Question: What is 10 + 18?
+Answer:",28, 10 + 18 =, 28,False,True
+"Question: What is 87 + 44?
+Answer:",131, 87 + 44 =, 131,False,True
+"Question: What is 16 - 17?
+Answer:",-1, 16 - 17 =, -1,False,True
+"Question: What is 44 + 30?
+Answer:",74, 44 + 30 =, 74,False,True
+"Question: What is 24 + 95?
+Answer:",119, 24 + 95 =, 119,False,True
+"Question: What is 78 + 31?
+Answer:",109, 78 + 31 =, 109,False,True

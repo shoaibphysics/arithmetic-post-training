@@ -1,0 +1,21 @@
+prompt,expected,response_sft,response_grpo,correct_sft,correct_grpo
+"Question: What is 62 * 64?
+Answer:",3968, 3888, 3888,False,False
+"Question: What is 56 * 54?
+Answer:",3024, 3024, 3024,True,True
+"Question: What is 34 * 51?
+Answer:",1734, 1654, 1694,False,False
+"Question: What is 54 * 86?
+Answer:",4644, 4584, 4584,False,False
+"Question: What is 93 * 13?
+Answer:",1209, 1209, 1209,True,True
+"Question: What is 49 * 31?
+Answer:",1519, 1519, 1519,True,True
+"Question: What is 54 * 88?
+Answer:",4752, 4672, 4672,False,False
+"Question: What is 66 * 89?
+Answer:",5874, 5914, 5974,False,False
+"Question: What is 28 * 66?
+Answer:",1848, 1848, 1848,True,True
+"Question: What is 15 * 39?
+Answer:",585, 635, 615,False,False

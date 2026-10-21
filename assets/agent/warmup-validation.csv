@@ -1,0 +1,2 @@
+episodes,success_rate,tool_use_rate,invalid_actions,mixed_group_fraction
+128,0.109375,1.0,1,0.375

@@ -1,0 +1,5 @@
+task,sampled_accuracy,valid_format,all_wrong,mixed_groups,all_correct
+add_sub_3digit,0.921875,1.0,0.0625,0.046875,0.890625
+add_sub_4digit,0.90625,1.0,0.078125,0.046875,0.875
+multiplication,0.44921875,1.0,0.421875,0.234375,0.34375
+two_step,0.0,0.9375,1.0,0.0,0.0
